@@ -1,1 +1,3 @@
-# Blockchain Journey - Day 1 Notes
+git add .
+git commit -m "Day 1: setup complete"
+git push
